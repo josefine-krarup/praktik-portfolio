@@ -28,7 +28,7 @@ const Hero = () => {
           </div>
 
           <div className="relative z-10">
-            <h2 className="absolute -top-5 lg:-top-11 lg:right-0 z-20 text-secondary-blue text-5xl lg:text-9xl font-extrabold uppercase leading-none">Portfolio</h2>
+            <h2 className="absolute -top-5 lg:-top-11 lg:right-0 z-20 text-secondary-blue text-6xl lg:text-9xl font-extrabold uppercase leading-none">Portfolio</h2>
             <Image src="/assets/profilbillede.JPG" alt="Profil billede" width={500} height={600} className="object-cover pt-15 lg:pt-0" />
             <div className="absolute lg:-bottom-30 lg:-left-45 bg-background px-14 lg:px-28 py-6 shadow-lg z-20">
               <h3 className="text-2xl lg:text-4xl">Josefine von Bruhn Krarup</h3>
